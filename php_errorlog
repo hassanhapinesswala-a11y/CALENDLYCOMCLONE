@@ -1,0 +1,24 @@
+[30-Aug-2025 07:49:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php on line 10
+[30-Aug-2025 07:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php on line 10
+[30-Aug-2025 07:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php on line 10
+[30-Aug-2025 07:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php on line 10
+[30-Aug-2025 07:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/signup.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/signup.php on line 13
+[01-Sep-2025 11:32:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/rsoa165.millioncoders.net/public_html/CALENDLYCOMCLONE/login.php on line 10
